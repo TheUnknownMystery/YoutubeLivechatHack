@@ -1,6 +1,6 @@
 import pytchat
 
-chat = pytchat.create(video_id="bmVKaAV_7-A")
+chat = pytchat.create(video_id="Please Put you link here")
 
 while chat.is_alive():
     for c in chat.get().sync_items():
